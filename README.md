@@ -11,3 +11,4 @@ From this course, I hope to learn controlling color theories, chart selection pr
 Here's where all my cool data visulization will go!
 
 
+[Link to Data Visulization Assignment 2](/dataviz2.md)
