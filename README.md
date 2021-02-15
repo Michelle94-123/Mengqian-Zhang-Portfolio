@@ -9,6 +9,3 @@ From this course, I hope to learn controlling color theories, chart selection pr
 
 # Portfolio
 Here's where all my cool data visulization will go!
-
-
-The link to dataviz2(/dataviz2.md)
