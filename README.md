@@ -10,4 +10,4 @@ From this course, I hope to learn controlling color theories, chart selection pr
 # Portfolio
 Here's where all my cool data visulization will go!
 
-[Data Visualization Assignment 2](/dataviz2.md)
+[Link to Data Visualization Assignment 2](/dataviz2.md)
