@@ -12,3 +12,4 @@ Here's where all my cool data visulization will go!
 
 
 [Link to Data Visulization Assignment 2](/dataviz2.md)
+
