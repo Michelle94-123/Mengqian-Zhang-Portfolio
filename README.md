@@ -13,3 +13,4 @@ Here's where all my cool data visulization will go!
 
 [Link to Data Visulization Assignment 2](/dataviz2.md)
 
+[Link to Assignment 3&4: Critique by Design](/critique3.md)
