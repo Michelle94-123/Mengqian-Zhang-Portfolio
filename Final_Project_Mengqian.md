@@ -7,3 +7,6 @@ At the end of the project, I will also try to provide suggestions for electricit
 
 # Initial Sketches
 Although I have not started my investigation with detailed information and data, I still want to show the major elements of my story with a few sketches here.
+![999345659](https://user-images.githubusercontent.com/78348072/109444747-e3b6bc00-7a78-11eb-83d4-b5d9c059cf7a.jpg)
+
+
