@@ -16,3 +16,5 @@ Here's where all my cool data visulization will go!
 [Link to Assignment 3&4: Critique by Design](/critique3.md)
 
 [Link to Final Project Part One](/Final_Project_Mengqian.md)
+
+[Link to Final Project Part Two](/part2.md)
