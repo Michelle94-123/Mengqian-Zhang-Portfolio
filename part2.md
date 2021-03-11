@@ -44,7 +44,9 @@ I'm going to use Shorthand for my final presentation. The following sketches sho
 
 ![1](https://user-images.githubusercontent.com/78348072/110734594-19bb2380-8263-11eb-90b4-0758cd62ba20.jpg)
 
+![2](https://user-images.githubusercontent.com/78348072/110734691-4d964900-8263-11eb-8f5c-ec03b5ae37ae.jpg)
 
+![3](https://user-images.githubusercontent.com/78348072/110734714-5555ed80-8263-11eb-9e53-8e28822bf204.jpg)
 
 # User Research and Interview Plan
 
