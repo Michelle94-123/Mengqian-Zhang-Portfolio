@@ -42,6 +42,8 @@ From this chart, we can see that the median utility rate is 93.35%, higher than 
 # Presentation Storyboards
 I'm going to use Shorthand for my final presentation. The following sketches show primary elements of my story and how I plan to lead my audience through the visualization experience.
 
+![1](https://user-images.githubusercontent.com/78348072/110734594-19bb2380-8263-11eb-90b4-0758cd62ba20.jpg)
+
 
 
 # User Research and Interview Plan
