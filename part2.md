@@ -49,11 +49,11 @@ I'm going to use Shorthand for my final presentation. The following sketches sho
 ![3](https://user-images.githubusercontent.com/78348072/110734714-5555ed80-8263-11eb-9e53-8e28822bf204.jpg)
 
 # User Research and Interview Plan
+After I developed wireframes and presentation storyboards, I then designed user research and interview plan in order to get feedback and improve my final project. To design the user research and interview plan, I need to include three elements: (1) the target audience I hope to reach with my story; (2) my approach to identifying representative individuals to interview; (3) My interview questions and outline.
 
 
 
-
-# User Research Findings
+# User Research Findings and Changes to my Final Project
 
 
 [Link back to Main Page](/README.md)
