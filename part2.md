@@ -40,11 +40,13 @@ To test my guess whether a country with larger electricity production tends to h
 From this chart, we can see that the median utility rate is 93.35%, higher than 90%. But there are still two outliers, Luxembourg and Lithuania, whose electricity utility rate is below 85%.
 
 # Presentation Storyboards
-
+I'm going to use Shorthand for my final presentation. The following sketches show primary elements of my story and how I plan to lead my audience through the visualization experience.
 
 
 
 # User Research and Interview Plan
+
+
 
 
 # User Research Findings
