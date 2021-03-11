@@ -13,30 +13,35 @@ From this chart, we can see that natural gas, coal, nuclear, hydro and wind are 
 
 <iframe src='https://flo.uri.sh/visualisation/5520903/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5520903/?utm_source=embed&utm_campaign=visualisation/5520903' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-From this chart, we can see that 
+From this chart, we can see that in Asia Oceania, coal and natural gas are the two major fuels to produce electricity while other renewable fuels account for small percentage. In Europe, the fraction of different fuels is distributed evenly, which means that Europe has a good fuel usage structure. In America, the natural gas and coal are major fuels, nuclear and hydro also have large fractions which smaller than natural gas and coal.
 
 **Element 3: The electricity dependence rate (the fraction of imported electricity in electricity supplied) comparison across all OECD member countries**
 
 <iframe src='https://flo.uri.sh/visualisation/5521246/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5521246/?utm_source=embed&utm_campaign=visualisation/5521246' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+From this visualization, we can learn that the range of electricity dependence rate of a OECD member country is large, from 0 to 106%. 12 countries have electricity dependence rate larger than 20%, which means that around one third of OECD member countries need to dependent on imported electricity to meet above 20% of their annual electricity needs.
 
 **Element 4: The fraction of electricity produced by renewable fuels in total net electricity production for all OECD member countries**
 
 <iframe src='https://flo.uri.sh/visualisation/5521417/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5521417/?utm_source=embed&utm_campaign=visualisation/5521417' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+From this chart, we can see that in overall, OECD member countries have high renewable rate, which means that the fraction of electricity produced with renewable fuels is generally high in total net electricity production. 24 countries have renewable rate higher than 30%, and 13 countries have renewable rate higher than 50%.
 
 **Element 5: The correlation between electricity exports and total net electricity production with data of all OECD member countries**
 
 <iframe src='https://flo.uri.sh/visualisation/5521545/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5521545/?utm_source=embed&utm_campaign=visualisation/5521545' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+To test my guess whether a country with larger electricity production tends to have larger electricity exports, I created this chart to show the correlation between electricity exports and total net electricity production with data of all OECD member countries. I used logged value for the number of total electricity production because the real value is very large and makes it difficult to see the trend of the correlation. From the visualization, we can see that there is not a clear positive correlation between electricity production and electricity exports. Even though larger exports tend to correspond larger total net production, there are still multiple countries with large electricity production and small or even 0 electricity exports. So, we can conclude that a OECD country's electricity export policies depend on other factors in addition to the amount of electricity production.
 
 **Element 6: The distribution of utility ratio of electricity across all OECD member countries**
 
 <iframe src='https://flo.uri.sh/visualisation/5521767/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5521767/?utm_source=embed&utm_campaign=visualisation/5521767' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-
+From this chart, we can see that the median utility rate is 93.35%, higher than 90%. But there are still two outliers, Luxembourg and Lithuania, whose electricity utility rate is below 85%.
 
 # Presentation Storyboards
+
+
 
 
 # User Research and Interview Plan
