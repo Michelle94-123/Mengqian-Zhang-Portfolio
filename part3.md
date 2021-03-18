@@ -34,3 +34,9 @@ Data Source: IEA (2021), Monthly electricity statistics, IEA, Paris https://www.
 Images:
 
 Zhang, Zoey Ye. *China Electricity Prices for Industrial Consumers.* April 23, 2019. *China Briefing.* https://images.app.goo.gl/c9y9QpLkKhmvowX88. 
+
+Terhune, Lea. *Understanding Your Electric Bill Can Save You Money.* April 18, 2017. *US Embassy &amp; Consulates in South Africa.* https://images.app.goo.gl/KRL7MJXW48Q4bbj88. 
+
+Shipley Energy. January 3, 2017. *Shipley Energy.* https://images.app.goo.gl/ijXEFqiRhBQkpkW7A. 
+
+[Link back to Main Page](README.md)
