@@ -18,3 +18,5 @@ Here's where all my cool data visulization will go!
 [Link to Final Project Part One](/Final_Project_Mengqian.md)
 
 [Link to Final Project Part Two](/part2.md)
+
+[Link to Final Project Part Three](/part3.md)
