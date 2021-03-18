@@ -29,3 +29,8 @@ The link to the final data story and the name of my project were updated in the 
 
 **References for Materials and Images**
 
+Data Source: IEA (2021), Monthly electricity statistics, IEA, Paris https://www.iea.org/reports/monthly-electricity-statistics
+
+Images:
+
+Zhang, Zoey Ye. *China Electricity Prices for Industrial Consumers.* April 23, 2019. *China Briefing.* https://images.app.goo.gl/c9y9QpLkKhmvowX88. 
