@@ -6,13 +6,17 @@ In Part One, I introduced an outline of the project which includes six elements 
 And then, in Part Two, I firstly created wireframes of my project including the visualizations of my six elements with Flourish. And then I used sketches to design the presentation storyboard that shows how audience will go through my presentation. After that, I implemented user research and interviews aiming to get some feedback of my project from targeted audience. Finally, I claimed some user research findings and some changes of the story telling. You can click the link here to see more details of Part Two. [Link to Final Project Part Two](/part2.md)
 
 # Part Three: Final Data Story
-
+Based on my work in Part One and Part Two, I created the final data story in Part Three which includes three aspects, identification of audience, my design decisions with Shorthand and the final deliverable of Shorthand presentation.
 
 **Identification of Audience**
+My target audience include students majoring in Energy Policy in universities, researchers focusing on electricity production and consumption and some NGOs or institutions related to energy or electricity. 
 
+To make my project work for my target audience, I selected elements that are also important academic topics in the field of energy or electricity. Additionally, I did not explain terms of electricity used in the presentation because I think my target audience focus on this academic field and have been familiar with those concepts. Besides, I carefully proposed policy recommendations at the end of the story about the promotion of renewable fuels, electricity regional cooperation across OECD and the improvement of utility rate because my target audience mainly concentrate on energy polciy and they care about policy options in addition to existing situations.
 
 **My Design Decisions**
+For presentation design on Shorthand, I firstly thought about the basic framework of my storyboard including introduction, six elements as main body, final conclusions and policy options. And then, I collected materials that would be used in the design. To be specific, I download the visualizations created with Flourish and found several images related to energy, electricty, OECD and regional cooperation on website.
 
+During my design on Shorthand, I also added some marks to suit explanations into the origional charts so that audience are able to follow my illustrations easily. And I also deleted several images for simplicity.
 
 **Final Data Story**
 
