@@ -23,7 +23,7 @@ During my design on Shorthand, I also added some marks to suit explanations into
 
 **Final Data Story**
 
-My final data story designed with Shorthand can be accessed via the link here. [Link to the Final Data Story](https://carnegiemellon.shorthandstories.com/what-factors-affect-travel-plan/index.html)
+My final data story designed with Shorthand can be accessed via the link here. [Link to the Final Data Story](https://carnegiemellon.shorthandstories.com/-electricity-production-and-consumption-of-oecd-countries/index.html)
 
 The link to the final data story and the name of my project were updated in the final presentation spreedsheet before the presentation in class. The link to the presentation spreedsheet is shown here. [Link to the Presentation Spreedsheet](https://docs.google.com/spreadsheets/d/13Lj3mJfgwEfDt4GNwvlbKBJDF9o49Da7YoNXnKb8f0U/edit#gid=9052564)
 
